@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rvanbruggen.github.io/orienteeringmaps-public/sitemap.xml
